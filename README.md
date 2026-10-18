@@ -2,7 +2,7 @@
 
 A simple web app that explains any concept you type in, powered by Google's Gemini API and built with Streamlit. This is my first AI project.
 
-🔗 **Live demo:** [add your Streamlit app link here]
+🔗 **Live demo:** https://profeappr-gemini-ai-tutor-wxnz8jhsby7ijpddqptbrk.streamlit.app/
 
 ![App screenshot](screenshot.png)
 
