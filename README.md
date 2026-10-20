@@ -63,5 +63,4 @@ A simple web app that explains any concept you type in, powered by Google's Gemi
 ## Author
 
 **Reeda Shaikh**
-BTech AI & Data Science student
 [GitHub](https://github.com/sirrida000) · [LinkedIn](https://linkedin.com/in/reeda-s-11914a42b)
